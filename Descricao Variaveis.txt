@@ -1,0 +1,20 @@
+Ano: year
+Rod: round
+Pos: current position
+Clb: Team name
+Pts: number of points received in this match
+Vit: Boolean for team victory
+Emp: Boolean for team drawn
+Der: Boolean for team defeat
+GP: Number of goals for the team in this match
+GC: Number of goals against
+SG: Goal difference in this match
+Adv: opposing team
+Home: If the match is in the team home
+Pts(ac): Current number of points
+Vit(ac): Year cumulative number of victories
+Emp(ac): Year cumulative number of drawns
+Der(ac): Year cumulative number of defeats
+GP(ac): Year cumulative number of goals for
+GC(ac): Year cumulative number of goals against
+SG(ac): Year cumulative goal difference
